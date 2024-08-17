@@ -18,4 +18,9 @@ public class Solution {
 
 
 // System.out.printf("%-15s%03d%n" ,s1, x); it is used for it...
- 
+
+
+//Using the printf( ) Method
+//Using the format( ) Method
+
+//https://www.javatpoint.com/java-output-formatting
